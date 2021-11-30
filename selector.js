@@ -1,4 +1,4 @@
-nombre=prmpt("Diga su nombre")
+nombre=prompt("Diga su nombre")
 apellido=prompt("Diga su apellido")
 edad=prompt("Diga su edad")
 edad10=parseInt(edad)+10
